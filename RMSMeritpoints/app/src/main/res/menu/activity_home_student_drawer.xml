@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_entermeritpoints"
+            android:title="enter meritpoints"
+            />
+        <item
+            android:id="@+id/nav_addteacher"
+            android:title="Add Teacher"
+            />
+        <item
+            android:id="@+id/nav_addstudent"
+            android:title="Add Student"
+            />
+        <item
+            android:id="@+id/nav_removeteacher"
+            android:title="Remove teacher"
+            />
+        <item
+            android:id="@+id/nav_removestudent"
+            android:title="Remove student"
+            />
+        <item
+            android:id="@+id/nav_viewall"
+            android:title="View All"
+            />
+        <item
+            android:id="@+id/nav_change_password"
+            android:title="Change password" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:title="Log out" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+        </menu>
+    </item>
+
+</menu>

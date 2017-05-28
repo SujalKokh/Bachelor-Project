@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    android:weightSum="1">
+
+    <ImageButton
+        android:layout_width="303dp"
+        android:layout_height="300dp"
+        android:background="@drawable/rms_logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.76" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/email"
+        android:text="Email:(eg-sujal.kokh@gmail.com)"
+        android:singleLine="true"
+        android:imeOptions="actionNext"
+        />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/password"
+        android:text="password"
+        android:password="true"
+        android:singleLine="true"
+        android:imeOptions="actionDone"
+        />
+
+    <Button
+        android:layout_width="125dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center_horizontal"
+        android:text="login"
+        android:id="@+id/btn_login"
+        android:onClick="OnLogin"
+        />
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:text="forgot password?"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

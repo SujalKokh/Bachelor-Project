@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="35dp"
+        android:text="Students username"
+        android:layout_marginLeft="50dp"/>
+    <EditText
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/username"/>
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="35dp"
+        android:text="Student's email"
+        android:layout_marginLeft="50dp"/>
+    <EditText
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        />
+
+    <Button
+        android:layout_width="125dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center_horizontal"
+        android:text="remove"
+        android:id="@+id/remove"
+        />
+
+
+</LinearLayout>
