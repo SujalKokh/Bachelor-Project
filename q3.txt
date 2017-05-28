@@ -1,0 +1,17 @@
+3. Generate test cases for the given question 
+Answer
+The test case scenario are:
+----------------------------------
+Input 1			Input 2  	
+---------------------------------
+(Empty)			(Empty)	 
+0				0	 
+123456789		987654321|	
+-5				-2	 
+-58				4         
+4				-2	 
+1				0	 
+0				1  	      
+123				(Empty)  
+(Empty)  		321      
+----------------------------------

@@ -1,0 +1,22 @@
+Q4. 
+Answer
+I would go with Agile development strategy. Under Agile development I would choose SCRUM as the changing requirement can be addressed easily.
+
+1. Requirement
+First the requirement for the website/mobile application will be found by listening to the business context.
+Different sprints will be created according to the needs and requirement for the application. After defining the sprints
+the client will be asked to assign the value for the sprints.
+
+2. Analysis
+The time for all the sprints are checked and noted. Every sprints are defined under the time period of 30 days at maximum. Any
+kind of sprint which takes more than 30 days are broken down into smaller sprints. The cost, time and requirement for each sprint are developed.
+
+3. Design
+The sprints are coded according to the priority set by the client. During the design phase, if there are modules that can be reused, 
+the decision can be done using decision tree.
+
+4. Evolution
+Any changes in current sprints development will be done in this phase.
+
+5. Devlivary
+The developed module will be delivered to the client for use. The backlog will be view for designing next sprint.
