@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E2B4E06-BE58-4F10-8700-FF9EEA2D1666}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Shoes_stock_management.My.MyApplication</StartupObject>
+    <RootNamespace>Shoes_stock_management</RootNamespace>
+    <AssemblyName>Shoes stock management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Shoes stock management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Shoes stock management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_addcompany.Designer.vb">
+      <DependentUpon>frm_addcompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addcompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addndelcolour.Designer.vb">
+      <DependentUpon>frm_addndelcolour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addndelcolour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addndelusers.Designer.vb">
+      <DependentUpon>frm_addndelusers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addndelusers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_addusers.Designer.vb">
+      <DependentUpon>frm_addusers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_addusers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_backupandrestore.Designer.vb">
+      <DependentUpon>frm_backupandrestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_backupandrestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_deleteusers.Designer.vb">
+      <DependentUpon>frm_deleteusers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_deleteusers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_EditCompany.Designer.vb">
+      <DependentUpon>frm_EditCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_EditCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_viewstocks.Designer.vb">
+      <DependentUpon>frm_viewstocks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_viewstocks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mainmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mainmenu.Designer.vb">
+      <DependentUpon>frm_mainmenu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frm_passwordchange.Designer.vb">
+      <DependentUpon>frm_passwordchange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_passwordchange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_printreportPrint report.Designer.vb">
+      <DependentUpon>frm_printreportPrint report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_printreportPrint report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_stockupdate.Designer.vb">
+      <DependentUpon>frm_stockupdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_stockupdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_addcompany.resx">
+      <DependentUpon>frm_addcompany.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addndelcolour.resx">
+      <DependentUpon>frm_addndelcolour.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addndelusers.resx">
+      <DependentUpon>frm_addndelusers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_addusers.resx">
+      <DependentUpon>frm_addusers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_backupandrestore.resx">
+      <DependentUpon>frm_backupandrestore.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_deleteusers.resx">
+      <DependentUpon>frm_deleteusers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_EditCompany.resx">
+      <DependentUpon>frm_EditCompany.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_viewstocks.resx">
+      <DependentUpon>frm_viewstocks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mainmenu.resx">
+      <DependentUpon>frm_mainmenu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_passwordchange.resx">
+      <DependentUpon>frm_passwordchange.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_printreportPrint report.resx">
+      <DependentUpon>frm_printreportPrint report.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_stockupdate.resx">
+      <DependentUpon>frm_stockupdate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Guitar-in-dark-guitar-dark--1600x1200.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

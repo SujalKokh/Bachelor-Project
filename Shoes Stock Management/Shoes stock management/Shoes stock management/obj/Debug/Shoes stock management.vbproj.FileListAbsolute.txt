@@ -1,0 +1,293 @@
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.backup_and_restore.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.LoginForm1.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Mainmenu.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.password_change.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.stock_update.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Add_items.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+D:\Computing project P4\app\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Stock_view.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndeluser.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndeluser.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+F:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+I:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+I:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+I:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+I:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndeluser.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+I:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndeluser.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+E:\Computing project P4\appli\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+E:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+E:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+E:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+E:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndeluser.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Print_report.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+E:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+E:\Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+G:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+G:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+G:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+G:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+J:\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+J:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+J:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+J:\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+F:\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+C:\Documents and Settings\Administrator\Desktop\My Computing project P4\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+C:\Users\Kuhs\Desktop\My Computing project P4111\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+C:\Users\Kuhs\Desktop\My Computing project P4121\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+H:\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deletecompany.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+F:\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe.config
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.exe
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.xml
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.pdb
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.exe
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.pdb
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\bin\Debug\Shoes stock management.xml
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addcompany.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelcolour.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addndelusers.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_addusers.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_backupandrestore.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_deleteusers.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_EditCompany.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_viewstocks.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_login.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_mainmenu.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.Resources.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_passwordchange.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_Printreport.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes_stock_management.frm_stockupdate.resources
+C:\Documents and Settings\User\Desktop\Project da' latest\My Computing project P41\appli\Shoes stock management\Shoes stock management\obj\Debug\Shoes stock management.vbproj.GenerateResource.Cache
